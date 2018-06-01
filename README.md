@@ -5,4 +5,4 @@ Docker organization structure to be implemented on distributed applications
 
 > covers a number of topics (introductory)
 
-> makefile, docker images and containers, nginx, volumes, CI&CD
+> makefile, docker images and containers, nginx, volumes, CI&CD and ansible
